@@ -1,0 +1,110 @@
+:
+ Shell Script Project 1 Landmark Technology – 
+
+1)	What is Shell? 
+The shell is the layer of programming that understands and executes the commands a user enters. In some systems, the shell is called a command interpreter.
+
+2)	How to check how many shells that Linux/Unix server will support? 
+cat  /etc/shells
+
+3)	What are the different shell types? 
+The Bourne Shell (sh)
+The GNU Bourne-Again Shell (bash)
+The C Shell (csh)
+The Korn Shell (ksh)
+The Z Shell (zsh)
+
+4)	How many types of comments does shell script support? 
+# This is a Single line comment
+: 'This is a
+Multi-line comments'
+
+ 
+
+5)	What is command line arguments? 
+parameters that are passed to a script while executing them in the bash shell. They are also known as positional parameters in Linux.
+
+6)	What is the difference between $* and $@ ? 
+the "$*" special parameter takes the entire list as one argument with spaces between.
+the "$@" special parameter takes the entire list and separates it into separate arguments.
+
+7)	Write down the syntax for if condition? 
+if [condition]
+then
+   statement1
+else
+   statement2
+fi
+
+8)	Write down the syntax for for-loop? 
+max=10
+for (( i=2; i <= $max; ++i ))
+do
+    echo "$i"
+done
+
+
+	max=10
+for i in `seq 2 $max`
+do
+    echo "$i"
+done
+
+	i=0
+max=10
+while [ $i -lt $max ]
+do
+    echo "output: $i"
+    true $(( i++ ))
+done
+
+9)	Write down the syntax for function and write one function and call that function? 
+func1()
+{
+    local var='func1 local'
+    func2
+}
+
+func2()
+{
+    echo "In func2, var = $var"
+}
+
+var=global
+	func1
+
+
+10)	What is the difference between > and >> and < and what is the standard output and standard error codes? 
+
+11)	How to display one variable (take variable name as technology) value? 
+
+
+
+12)	How many types of variables are in Shell scripting? 
+
+
+13)	Write some System defined variables? 
+
+
+14)	What is String? 
+
+
+15)	How to find the length of the given string? 
+
+
+16)	Write a shell script to accept the name and age from the user and display that back to the user. 
+
+17)	Write a shell script to accept a file name from the user and make a copy of that file. 
+
+
+
+18)	Write a shell script to accept file name from the user and display the contents of file. If the file doesn't exist then try curbing the error and display a user friendly error to user. 
+
+19)	Write a shell script to accept a file name from user and check whether its an ordinary file or a directory. In case of file show the contents of file and if it’s a directory show number of files in that directory. 
+
+20)	Write a shell script to accept a file name from user. Check whether file has all the permissions if not assign the respective permissions to that file. 
+
+21)	Write a shell script to accept a file name from the user and sort the file. If the file doesn’t 
+exist curb the error message and show the user-friendly message.
+
+
