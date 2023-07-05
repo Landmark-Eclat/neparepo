@@ -1,0 +1,1000 @@
+  112  vi arg_create_user.sh 
+  113  sh arg_create_user.sh mikolodian fa DevOps
+  114  cat ../new_users.txt 
+  115  vi ../new_users.txt 
+  116  cat /etc/passwd
+  117  id mikolodian 
+  118  sudo userdel mikolodian 
+  119  vi arg_create_user.sh 
+  120  ls
+  121  vi createuser.sh 
+  122  vi 
+  123  id mikolodian
+  124  vi arg_create_user.sh 
+  125  id mikolodian
+  126  vi arg_create_user.sh 
+  127  id mikolodian
+  128  clear
+  129  sudo groupadd DevOps
+  130  sh arg_create_user.sh kayode DevOps "DevOps Engineer" DevOps
+  131  cat arg_create_user.sh 
+  132  clear
+  133  ls
+  134  echo $?
+  135  lss
+  136  echo $?
+  137  cd /
+  138  ls
+  139  cd opt
+  140  ls
+  141  cd aws/
+  142  ls
+  143  cd ..
+  144  cd etc/
+  145  ls
+  146  cd 
+  147  pwd
+  148  sudo yum remove tree
+  149  sudo yum remove nginx -y
+  150  ls
+  151  cd scripts/
+  152  vi arg_install.sh
+  153  sh arg_install.sh nginx tree
+  154  tree
+  155  sudo yum remove tree
+  156  sudo yum remove nginx
+  157  tree
+  158  clear
+  159  sh arg_install.sh nginx tree
+  160  tree
+  161  clear
+  162  ls
+  163  vi if1.sh
+  164  sh if1.sh 
+  165  vi if1.sh
+  166  sh if1.sh 
+  167  vi if1.sh
+  168  sh if1.sh 
+  169  cat if1.sh -n
+  170  vi if1.sh 
+  171  sh if1.sh 
+  172  vi if1.sh 
+  173  sh if1.sh 
+  174  cat if1.sh 
+  175  clear
+  176  sh if1.sh 
+  177  vi if1.sh 
+  178  sh if1.sh 
+  179  vi if1.sh 
+  180  sh if1.sh 
+  181  vi if1.sh 
+  182  touch ../admissions.txt
+  183  ls ..
+  184  clear
+  185  sh if1.sh 
+  186  clear
+  187  sh if1.sh 
+  188  cat ../admissions.txt 
+  189  vi ../admissions.txt 
+  190  vi if1.sh 
+  191  date
+  192  $DATE
+  193  $date
+  194  vi if1.sh 
+  195  sh if1.sh 
+  196  vi if1.sh 
+  197  sh if1.sh 
+  198  cat ../admissions.txt 
+  199  vi if1.sh 
+  200  sh if1.sh 
+  201  cat ../admissions.txt 
+  202  vi ../admissions.txt 
+  203  vi if
+  204  vi if1.sh 
+  205  sh if1.sh 
+  206  cat ../admissions.txt 
+  207  vi if1.sh 
+  208  vi ../admissions.txt 
+  209  sh if1.sh 
+  210  cat ../admissions.txt 
+  211  cd ..
+  212  ls
+  213  touch no_admission.txt
+  214  cd scripts/
+  215  ls
+  216  cd if
+  217  vi if1.sh 
+  218  cd ..
+  219  touch tryagain.txt
+  220  ls
+  221  cd scripts/
+  222  sh if1.sh 
+  223  vi if1.sh 
+  224  sh if1.sh 
+  225  vi if1.sh 
+  226  sh if1.sh 
+  227  vi if1.sh 
+  228  vi ifemployment.sh
+  229  ls ..
+  230  cd ..
+  231  touch newlandmark.txt tryagainlandmark.txt blacklistlandmark.txt
+  232  ls
+  233  cd scripts/
+  234  ls
+  235  vi ifemployment.sh 
+  236  vi testforloop.sh
+  237  sh testforloop.sh 
+  238  vi testforloop.sh
+  239  sh testforloop.sh 
+  240  vi testforloop.sh
+  241  sh testforloop.sh 
+  242  vi testforloop.sh
+  243  sh testforloop.sh 
+  244  vi testforloop.sh
+  245  ls
+  246  mv testforloop.sh checkuser.sh
+  247  vi checkuser.sh 
+  248  sh checkuser.sh 
+  249  vi checkuser.sh 
+  250  sh checkuser.sh 
+  251  vi checkuser.sh 
+  252  vi ifemployment.sh 
+  253  sh ifemployment.sh 
+  254  id simon
+  255  ls ..
+  256  cat ../newlandmark.txt 
+  257  echo >  ../newlandmark.txt 
+  258  cat ../newlandmark.txt 
+  259  sudo groupadd landmark
+  260  vi ifemployment.sh 
+  261  cat ../newlandmark.txt 
+  262  sh ifemployment.sh 
+  263  id simon
+  264  sh ifemployment.sh 
+  265  cd ..
+  266  ls
+  267  cat blacklistlandmark.txt 
+  268  cat newlandmark.txt 
+  269  cd scripts/
+  270  ls
+  271  vi ifemployment.sh 
+  272  cd ..
+  273  ls
+  274  touch scripts_log.txt
+  275  cd scripts/
+  276  ls
+  277  sh ifemployment.sh  >> ../scripts_log.txt 
+  278  cat ../scripts_log.txt 
+  279  sh -x ifemployment.sh 
+  280  vi ifemployment.sh 
+  281  sh -x ifemployment.sh 
+  282  id krol
+  283  sh ifemployment.sh 
+  284  id krol
+  285  vi ifemployment.sh 
+  286  sh ifemployment.sh 
+  287  clear
+  288  vi ifemployment.sh 
+  289  uid kay
+  290  id kay
+  291  id root
+  292  ls
+  293  cat arg_create_user.sh 
+  294  vi arg_create_user.sh 
+  295  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering
+  296  vi arg_create_user.sh 
+  297  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  298  vi arg_create_user.sh 
+  299  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  300  vi arg_create_user.sh 
+  301  id kay
+  302  sudo userdel -r dominion 
+  303  vi arg_create_user.sh 
+  304  ls
+  305  vi checkuser.sh 
+  306  vi arg_create_user.sh 
+  307  grep -wq "kay" id kay
+  308  grep -wq "kay" `id` kay
+  309  grep -wq "kay" `id kay`
+  310  grep -wq "kay" `id` kay
+  311  grep -wq "1001" `id` kay
+  312  grep -wq "uid" `id` kay
+  313  id kay
+  314  vi arg_create_user.sh 
+  315  id kay
+  316  vi arg_create_user.sh 
+  317  id kay
+  318  vi arg_create_user.sh 
+  319  id root
+  320  vi arg_create_user.sh 
+  321  id root
+  322  id kay
+  323  sudo usermod -aG root kay
+  324  id kay
+  325  sudo gpasswd -d kay root
+  326  id kay
+  327  vi arg_create_user.sh 
+  328  sh arg_create_user.sh 
+  329  cat arg_create_user.sh -n
+  330  vi arg_create_user.sh 
+  331  sh arg_create_user.sh 
+  332  vi arg_create_user.sh 
+  333  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  334  cd ..
+  335  pwd
+  336  touch userids.txt
+  337  vi arg_create_user.sh 
+  338  vi scripts/arg_create_user.sh 
+  339  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  340  cd scripts/
+  341  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  342  sudo usermod -aG root kay
+  343  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  344  id kay
+  345  cd ..
+  346  ls
+  347  cat userids.txt 
+  348  vi scripts/arg_create_user.sh 
+  349  id kay
+  350  vi scripts/arg_create_user.sh 
+  351  cd scripts/
+  352  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  353  cat ../userids.txt 
+  354  vi arg_create_user.sh 
+  355  cd ..
+  356  echo date >> userids.txt 
+  357  cat userids.txt 
+  358  echo `date` >> userids.txt 
+  359  cat userids.txt 
+  360  vi userids.txt 
+  361  echo `id kay` >> userids.txt 
+  362  cat userids.txt 
+  363  vi userids.txt 
+  364  cd scripts/
+  365  ls
+  366  cd arg_cre
+  367  vi arg_create_user.sh 
+  368  sudo gpasswd -d kay root
+  369  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  370  sudo usermod -aG root kay
+  371  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  372  cat ../userids.txt 
+  373  vi arg_create_user.sh 
+  374  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  375  vi arg_create_user.sh 
+  376  cat ../userids.txt 
+  377  vi arg_create_user.sh 
+  378  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  379  vi arg_create_user.sh 
+  380  id whoami
+  381  vi arg_create_user.sh 
+  382  cp arg_create_user.sh /home/testpep.sh
+  383  sudo cp arg_create_user.sh /home/testpep.sh
+  384  su -pep
+  385  su  - pep
+  386  id dominion
+  387  ls
+  388  vi forloop.sh
+  389  sh forloop.sh
+  390  vi forloop.sh 
+  391  vi forloopassignment.sh
+  392  sh forloopassignment.sh 
+  393  cat forloop
+  394  cat forloop.sh 
+  395  vi forloop2.sh
+  396  sh forloop2.sh 
+  397  vi forloop2.sh
+  398  sh forloop2.sh 
+  399  [clear
+  400  clear
+  401  vi forloop2.sh
+  402  sh forloop2.sh 
+  403  vi forloop2.sh
+  404  sh forloop2.sh 
+  405  vi forloop2.sh
+  406  sh forloop2.sh 
+  407  sh forloopassignment.sh 
+  408  id kay
+  409  sudo gpasswd -d kay root
+  410  ls ..
+  411  cat ../userids.txt 
+  412  ls
+  413  vi ifemployment.s
+  414  sh ifemployment.sh 
+  415  vi ifemployment.sh 
+  416  ls
+  417  cat forloop.sh -n
+  418  cat checkuser.sh -n
+  419  cat createuser.sh 
+  420  clear
+  421  ls
+  422  ll
+  423  cat if1.sh -n
+  424  clear
+  425  ll
+  426  cat forloopassignment.sh 
+  427  cat arg_create_user.sh -n
+  428  vi arg_create_user.sh 
+  429  cat /etc/passwd
+  430  sudo userdel -r dominion
+  431  sudo userdel -r dominions
+  432  sudo userdel -r simon
+  433  clear
+  434  cat arg_create_user.sh -n
+  435  cat /home/kay/userids.txt 
+  436  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  437  id dominion
+  438  sudo userdel -r dominion
+  439  clear
+  440  vi arg_create_user.sh 
+  441  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  442  cat ../userids.txt 
+  443  sudo usermod -aG root kay
+  444  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  445  cat ../userids.txt 
+  446  sudo userdel -r dominion
+  447  vi arg_create_user.sh 
+  448  sh arg_create_user.sh dominion landmark "Linux Admininstrator" Engineering kay
+  449  cat ../userids.txt 
+  450  sudo userdel -r dominion
+  451  sudo gpasswd -d kay root
+  452  clear
+  453  cd ..
+  454  touch wordcount.txt
+  455  ls
+  456  vi samplefile.txt
+  457  wc samplefile.txt 
+  458  wc -w samplefile.txt 
+  459  cd scripts/
+  460  ls
+  461  vi wc.sh
+  462  sh wc.sh /home/kay/wordcount.txt 
+  463  cat wc.sh 
+  464  cat ../wordcount.txt 
+  465  sh wc.sh /home/kay/samplefile.txt 
+  466  cat ../wordcount.txt
+  467  vi wc.sh
+  468  sh wc.sh ifemployment.sh 
+  469  vi whileloop1.sh
+  470  sh whileloop1.sh 
+  471  cat whileloop1.sh
+  472  clear
+  473  sh whileloop1.sh 
+  474  cat whileloop1.sh -n
+  475  vi whileloop1.sh 
+  476  sh whileloop1.sh 
+  477  vi whileloop1.sh 
+  478  sh whileloop1.sh 
+  479  vi whileloop1.sh 
+  480  sh whileloop1.sh 
+  481  cat whileloop1.sh -n
+  482  vi whileloop1.sh 
+  483  sh whileloop1.sh 
+  484  vi whileloop1.sh 
+  485  sh whileloop1.sh 
+  486  clear
+  487  sh whileloop1.sh 
+  488  cat whileloop1.sh -n
+  489  i whileloop1.sh 
+  490  vi whileloop1.sh 
+  491  sh whileloop1.sh 
+  492  vi whileloop1.sh 
+  493  sh whileloop1.sh 
+  494  vi whileloop1.sh 
+  495  clear
+  496  cat whileloop1.sh 
+  497  sh whileloop1.sh 
+  498  clear
+  499  cat whileloop1.sh -n
+  500  sh whileloop1.sh 
+  501  vi whileloop1.sh 
+  502  sh whileloop1.sh 
+  503  vi ylsample.sh
+  504  sh ylsample.sh 
+  505  clear
+  506  cat ylsample.sh 
+  507  cat whileloop1.sh 
+  508  vi whileloop1.sh 
+  509  sh whileloop1.sh 
+  510  vi whileloop1.sh 
+  511  sh whileloop1.sh 
+  512  vi whileloop1.sh 
+  513  clear
+  514  sh whileloop1.sh 
+  515  vi whileloop1.sh 
+  516  sh whileloop1.sh 
+  517  vi whileloop1.sh 
+  518  sh whileloop1.sh 
+  519  vi whileloop1.sh 
+  520  clear
+  521  sh whileloop1.sh 
+  522  vi whileloop1.sh 
+  523  sh whileloop1.sh 
+  524  vi whileloop1.sh 
+  525  sh whileloop1.sh 
+  526  clear
+  527  sh whileloop1.sh 
+  528  lear
+  529  clear
+  530  vi whileloop1.sh 
+  531  man RANDOM
+  532  man ls
+  533  man RANDOM
+  534  vi whileloop1.sh 
+  535  sh whileloop1.sh 
+  536  clear
+  537  vi whileloop1.sh 
+  538  sh whileloop1.sh 
+  539  clear
+  540  vi whileloop1.sh 
+  541  sh whileloop1.sh 
+  542  vi whileloop1.sh 
+  543  sh whileloop1.sh 
+  544  exit
+  545  clear
+  546  tree
+  547  ls
+  548  cd ..
+  549  ls
+  550  cd arteta/
+  551  ls
+  552  touch test.txt
+  553  ls
+  554  rm test.txt 
+  555  id kay
+  556  cd ..
+  557  tree
+  558  cat /etc/passwd
+  559  cat /etc/passwd |grep kay
+  560  cat /etc/groups
+  561  cat /etc/group
+  562  cat /etc/group |grep kay
+  563  ls /
+  564  ls /etc
+  565  ls /etc/sudoers.d/
+  566  sudo ls /etc/sudoers.d/
+  567  sudo cat /etc/sudoers.d/90-cloud-init-users
+  568  sudo cat /etc/sudoers
+  569  cat /etc/passwd |grep kay
+  570  ls
+  571  tree
+  572  cd kayode/
+  573  id kay
+  574  id mikolodian
+  575  id oba
+  576  cd oba
+  577  id oba
+  578  id klopp 
+  579  cd klopp/
+  580  id oba 
+  581  cd oba
+  582  cd oba/
+  583  sudo cd oba
+  584  cd ..
+  585  ls
+  586  tree
+  587  cd kayode/
+  588  cd mikolodian
+  589  cd oba
+  590  cd temporary/
+  591  cd oba/
+  592  sudo cd oba/
+  593  cd ..
+  594  ls
+  595  cd home/
+  596  ls
+  597  cd -
+  598  ls
+  599  cd 
+  600  clear
+  601  cat /etc/passwd -n
+  602  cat /etc/passwd |tail -17 -n
+  603  cat /etc/passwd -n |tail -17
+  604  cat /etc/passwd -n |tail -17 >> remove_users.txt
+  605  ls
+  606  cat remove_users.txt 
+  607  cd scripts/
+  608  vi remove_users.sh
+  609  wc -l kay
+  610  ls
+  611  wc kay
+  612  vi remove_users.sh
+  613  sh remove_users.sh
+  614  cat remove_users.sh -n
+  615  clear
+  616  vi remove_users.sh 
+  617  sh remove_users.sh
+  618  cat remove_users.sh -n
+  619  vi remove_users.sh 
+  620  sh remove_users.sh
+  621  cat remove_users.sh -n
+  622  vi remove_users.sh 
+  623  sh remove_users.sh
+  624  cat remove_users.sh -n
+  625  vi remove_users.sh 
+  626  sh remove_users.sh
+  627  cat remove_users.sh -n
+  628  touch /home/kayremove_homedirectory.txt
+  629  touch /home/kay/remove_homedirectory.txt
+  630  clear
+  631  vi remove_users.sh 
+  632  cat /etc/passwd | grep arteta
+  633  sh remove_users.sh
+  634  cat /etc/passwd | grep arteta
+  635  vi remove_users.sh 
+  636  cat remove_users.sh -n
+  637  vi remove_users.sh 
+  638  sh remove_users.sh
+  639  vi remove_users.sh 
+  640  ls
+  641  cat ylsample.sh 
+  642  vi remove_users.sh 
+  643  sh remove_users.sh
+  644  cat remove_users.sh 
+  645  cat remove_users.sh -n
+  646  vi remove_users.sh 
+  647  cat ../remove_files.txt 
+  648  cat remove_users.sh -n
+  649  vi remove_users.sh 
+  650  sh remove_users.sh
+  651  cat remove_users.sh -n
+  652  vi remove_users.sh 
+  653  sh remove_users.sh
+  654  cat remove_users.sh -n
+  655  vi remove_users.sh 
+  656  sh remove_users.sh
+  657  vi remove_users.sh 
+  658  sh remove_users.sh
+  659  vi remove_users.sh 
+  660  sh remove_users.sh
+  661  vi remove_users.sh 
+  662  sh remove_users.sh
+  663  vi remove_users.sh 
+  664  sh remove_users.sh
+  665  vi remove_users.sh 
+  666  sh remove_users.sh
+  667  vi remove_users.sh 
+  668  sh remove_users.sh
+  669  cat /etc/passwd |grep arteta
+  670  vi remove_users.sh 
+  671  cat ../remove_files.txt 
+  672  sh remove_users.sh
+  673  vi remove_users.sh 
+  674  cat ../remove_users.txt 
+  675  ls ../*.txt
+  676  cat ../remove_homedirectory.txt 
+  677  vi remove_users.sh 
+  678  sh remove_users.sh 
+  679  ls /home
+  680  vi remove_users.sh 
+  681  cat ../remove_homedirectory.txt 
+  682  sh remove_users.sh 
+  683  cat ../remove_homedirectory.txt 
+  684  vi remove_users.sh 
+  685  wc -w  ../remove_homedirectory.txt 
+  686  wc -l  ../remove_homedirectory.txt 
+  687  wc   ../remove_homedirectory.txt 
+  688  wc -m  ../remove_homedirectory.txt 
+  689  vi remove_users.sh 
+  690  wc -m  ../remove_homedirectory.txt 
+  691  echo wc -m  ../remove_homedirectory.txt > ../remove_homedirectory.txt 
+  692  wc -m  ../remove_homedirectory.txt 
+  693  cat ../remove_homedirectory.txt 
+  694  wc -L  ../remove_homedirectory.txt 
+  695  cat  ../remove_homedirectory.txt 
+  696  echo wc -m  ../remove_homedirectory.txt > ../remove_homedirectory.txt 
+  697  cat  ../remove_homedirectory.txt 
+  698  echo `wc -m`  ../remove_homedirectory.txt > ../remove_homedirectory.txt 
+  699  wc -m  ../remove_homedirectory.txt > ../remove_homedirectory.txt 
+  700  cat  ../remove_homedirectory.txt 
+  701  vi ../remove_homedirectory.txt 
+  702  wc -m  ../remove_homedirectory.txt
+  703  vi ../remove_homedirectory.txt 
+  704  wc -m  ../remove_homedirectory.txt
+  705  wc -L  ../remove_homedirectory.txt
+  706  wc  ../remove_homedirectory.txt
+  707  vi remove_users.sh 
+  708  sh remove_users.sh 
+  709  cat /etc/passwd |grep arteta
+  710  cat /etc/passwd |grep klopp
+  711  cat /etc/passwd |grep pep
+  712  ls ../..
+  713  ll ../..
+  714  vi remove_users.sh 
+  715  sudo su - pep
+  716  cd ..
+  717  ls
+  718  pwd
+  719  cd ..
+  720  sudo su - pep
+  721  ls
+  722  chown xavi xavi/
+  723  sudo chown xavi xavi/
+  724  ll
+  725  sudo chown tuchel tuchel/
+  726  cd pep/
+  727  sudo su - pep
+  728  cd ..
+  729  ls
+  730  ll
+  731  sudo chown mourinho mourinho/
+  732  sudo chown galtier galtier/
+  733  sudo chown ec2-user ec2-user/
+  734  sudo chown ancelotti ancelotti/
+  735  sudo chown allegri allegri/
+  736  ll
+  737  sudo rmdir klopp/
+  738  sudo ls klopp/
+  739  sudo rmdir klopp/
+  740  sudo rm -rf klopp/
+  741  sudo rm -rf arteta/
+  742  sudo chown pep pep/
+  743  ll
+  744  cd kay/scripts/
+  745  clear
+  746  sh remove_users.sh 
+  747  ll /home
+  748  sudo chown mikolodian /home/mikolodian/
+  749  sudo chown mikolodian /home/mikolodian
+  750  sudo chown mikolodian /home/mikolodian/
+  751  cd ..
+  752  ls
+  753  cd ..
+  754  ls
+  755  sudo chown mikolodian mikolodian/
+  756  cat etc/passwd |grep mikolodian
+  757  cat /etc/passwd |grep mikolodian
+  758  cat /etc/passwd |grep pep
+  759  sudo rm -rf mikolodian/
+  760  cd kay/scripts/
+  761  ls
+  762  sh remove_users.sh 
+  763  ll /home/
+  764  sh remove_users.sh 
+  765  ll
+  766  ll /home/
+  767  vi remove_users.sh 
+  768  ll
+  769  cat /etc/passwd
+  770  sh remove_users.sh 
+  771  ll /home/
+  772  vi remove_users.sh 
+  773  sh remove_users.sh 
+  774  ll /home/
+  775  cat /etc/passwd |grep ancelotti
+  776  vi remove_users.sh 
+  777  sh remove_users.sh 
+  778  ll /home/
+  779  cat /etc/passwd |grep pep
+  780  cat /etc/passwd
+  781  ll /home/
+  782  sh remove_users.sh 
+  783  ll /home/
+  784  sudo rmdir pep
+  785  sudo rmdir /home/pep
+  786  sudo ll /home/pep
+  787  sudo ls /home/pep
+  788  sudo rm -rf /home/pep
+  789  ll /home/
+  790  sudo su - kayode
+  791  sh remove_users.sh 
+  792  ll /home/
+  793  cd ..
+  794  ls
+  795  ls -a
+  796  clear
+  797  ls
+  798  cat no admissions.txt
+  799  cat no_admissions.txt
+  800  cat no_admission.txt
+  801  rm no_admission.txt 
+  802  ls app
+  803  ls app2
+  804  rm -rf app
+  805  rm -rf app2
+  806  rm -rf deployment
+  807  rm -rf deployment2
+  808  ll
+  809  ls multi-line-comment/
+  810  cd multi-line-comment/
+  811  cd ..
+  812  rmdir multi-line-comment/
+  813  ll
+  814  cd scripts/
+  815  ls
+  816  cat arg_install.sh 
+  817  vi arg_install.sh 
+  818  sh arg_install.sh git
+  819  vi arg_install.sh 
+  820  sh arg_install.sh git
+  821  vi arg_install.sh 
+  822  sh arg_install.sh git
+  823  vi arg_install.sh 
+  824  sh arg_install.sh git
+  825  vi arg_install.sh 
+  826  sh arg_install.sh git
+  827  vi arg_install.sh 
+  828  sh arg_install.sh git
+  829  clear
+  830  git init
+  831  git config --global user.name=Michael Ogundare
+  832  git config --global user.name="Michael Ogundare"
+  833  git config --global user.name "Michael Ogundare"
+  834  git config --global user.email "kogundare2+ec2@gmail.com"
+  835  cd ..
+  836  mv scripts devops
+  837  cd devops/
+  838  ls
+  839  mkdir linux scripting git
+  840  ls
+  841  mv *.sh scripting/
+  842  ls
+  843  cat userids.txt 
+  844  rm userids.txt 
+  845  rm all_users.txt 
+  846  ls
+  847  cat 2
+  848  rm 2
+  849  ls
+  850  ls -a
+  851  git remote add devops https://github.com/mikolodian/devops-r
+  852  git list-repository
+  853  git --help
+  854  git dtstud
+  855  git status
+  856  git branch development
+  857  git checkout development
+  858  git branch
+  859  git --help
+  860  git branch --help
+  861  git branch --all
+  862  ll -a
+  863  git status
+  864  git add scripting/
+  865  git status
+  866  git push devops devops-r
+  867  git push master devops-r
+  868  git push devops-r
+  869  git remote add devops https://github.com/mikolodian/devops-r.git
+  870  git remote remove devops https://github.com/mikolodian/devops-r.git
+  871  git remote remove devops
+  872  git remote remove https://github.com/mikolodian/devops-r.git
+  873  git config --global user.email "kogundare2@gmail.com"
+  874  git config --global user.name "EC2 Kay"
+  875  git remote -v
+  876  git remote add devops https://github.com/mikolodian/devops-r.git
+  877  git remote add devops https://github.com/mikolodian/devops-r
+  878  git push devops https://github.com/mikolodian/devops-r.git'
+  879  git push devops https://github.com/mikolodian/devops-r.git
+  880  git init
+  881  git remote -v
+  882  git push devops https://github.com/mikolodian/devops-r.git
+  883  git status
+  884  git push
+  885  git push --set-upstream devops master
+  886  git push --set-upstream devops 
+  887  git remote remove devops https://github.com/mikolodian/devops-r.git
+  888  git remote remove devops
+  889  ls
+  890  ls -a
+  891  git init
+  892  clear
+  893  git remote -v
+  894  git remote add devops https://github.com/mikolodian/devops-r.git
+  895  git remote -v
+  896  git status
+  897  git commit -m "added first sample scripts"
+  898  ggit push  devops https://github.com/mikolodian/devops-r.git
+  899  git branch
+  900  git branch -r
+  901  git push  devops https://github.com/mikolodian/devops-r.git
+  902  git push master devops
+  903  git push master https://github.com/mikolodian/devops-r.git
+  904  git init
+  905  git status
+  906  git push origin master
+  907  git push devops master
+  908  git pull
+  909  git branch
+  910  git branch -r
+  911  git push devops master
+  912  git push devops development
+  913  git push devops master
+  914  git pull
+  915  git pull devops master
+  916  ls
+  917  git status
+  918  git branch
+  919  git branch -r
+  920  git pull.rebase devops master
+  921  ls
+  922  cp scripting/ ../scripting-copy
+  923  cp scripting/ -r ../scripting-copy
+  924  ls ../scripting-copy/
+  925  git fetch
+  926  git log --graph --oneline devops/master master
+  927  git config pull.rebase true
+  928  git  push devops master
+  929  git pul
+  930  git pull
+  931  git pull devops master
+  932  git pu
+  933  git  push devops master
+  934  git log
+  935  git  push devops development
+  936  git  push devops staging
+  937  git config pull.rebase true
+  938  git pull devops development
+  939  git  push devops development
+  940  git pull devops development
+  941  git status
+  942  git  push devops development
+  943  git pull devops development
+  944  git pull devops staging
+  945  git branch
+  946  git branch checkout development
+  947  git branch development
+  948  git branch staging
+  949  git branch checkout development
+  950  git branch
+  951  git branch -d checkout
+  952  git branch
+  953  git checkout development 
+  954  ls
+  955  vi README.md 
+  956  git status
+  957  git add README.md 
+  958  git status
+  959  git commit -m "README file modified"
+  960  git push devops master
+  961  git status
+  962  git log
+  963  git push devops development
+  964  git pull development
+  965  git pull devops development
+  966  cat README.md 
+  967  git push devops development
+  968  git push devops master
+  969  git push devops development
+  970  git push devops staging
+  971  git checkout staging 
+  972  git status
+  973  git pull
+  974  git pull devops master
+  975  git status
+  976  git branch
+  977  git push devops master
+  978  git push devops staging
+  979  ls
+  980  vi README.md 
+  981  git status
+  982  git add README.md 
+  983  git commit -m "one line added from staging branch"
+  984  git push devops staging:master
+  985  git branch
+  986  cat README.md 
+  987  git push devops staging:staging
+  988  git checkout development 
+  989  git status
+  990  cat README.md 
+  991  git pull devops master 
+  992  cat README.md 
+  993  git checkout master 
+  994  cat README.md 
+  995  git branch
+  996  cat README.md 
+  997  vi README.md 
+  998  git pull devops master 
+  999  cat README.md 
+ 1000  ls
+ 1001  echo file1 > file1.txt
+ 1002  echo file2 > file2.txt
+ 1003  cat file1.txt file2.txt > file3.txt
+ 1004  cat file3.txt 
+ 1005  ls
+ 1006  cd scripting-copy/
+ 1007  ls
+ 1008  vi switchcase1.sh
+ 1009  tree
+ 1010  ls /home/kay/ |grep local
+ 1011  crontab -l
+ 1012   sudo yum install -y && cron --version
+ 1013   sudo yum install cron -y && cron --version
+ 1014   sudo yum install cron
+ 1015   sudo yum install cronie -y && cronie --version
+ 1016  cron --version
+ 1017  crontab --version
+ 1018  crontab -l
+ 1019  cron -version
+ 1020  crontab -version
+ 1021  cron -V
+ 1022  crontab -V
+ 1023  ls /etc | grep cron
+ 1024  crontab -l
+ 1025  sudo touch /etc/cron.allow
+ 1026  crontab -l
+ 1027  sudo vi /etc/cron.allow
+ 1028  crontab -l
+ 1029  sudo su - ec2-user 
+ 1030  cron -l
+ 1031  crontab -l
+ 1032  crontab -e
+ 1033  vi monitor.sh
+ 1034  crontab -e
+ 1035  ls $SHELL
+ 1036  echo $SHELL
+ 1037  cat /etc/shells 
+ 1038  $DATE
+ 1039  DATE
+ 1040  date
+ 1041  $HOME
+ 1042  HOME
+ 1043  $HOME
+ 1044  env
+ 1045  mkdir project
+ 1046  cd project/
+ 1047  echo $hi
+ 1048  read word
+ 1049  echo ${#word}
+ 1050  vi lenght_of_string.sh
+ 1051  word="abcde"
+ 1052  echo ${{#word}}
+ 1053  echo ${#word}
+ 1054  echo ${abcde}
+ 1055  echo {abcde
+ 1056  echo #abcde
+ 1057  echo $abcde
+ 1058  vi copy.sh
+ 1059  ls
+ 1060  touch test.txt
+ 1061  pwd
+ 1062  ls
+ 1063  sh copy.sh
+ 1064  cat copy.sh 
+ 1065  ls /home/kay/project_result 
+ 1066  ls /home/kay/project_result/ 
+ 1067  ls /home/kay/project_result
+ 1068  cd /home/kay/project_result
+ 1069  cd /home/kay/
+ 1070  ls
+ 1071  rm project_result 
+ 1072  ls
+ 1073  sudorm project_result 
+ 1074  sudo rm project_result 
+ 1075  mkdir project_result 
+ 1076  ls
+ 1077  cd scripting-copy/
+ 1078  ls
+ 1079  cd project/
+ 1080  ls
+ 1081  vi copy.sh 
+ 1082  pwd
+ 1083  sh copy.sh 
+ 1084  cat /home/kay/project_result/
+ 1085  ls /home/kay/project_result/
+ 1086  ls
+ 1087  cd ..
+ 1088  ls
+ 1089  mv project/ project_scripts
+ 1090  ls
+ 1091  cd project_scripts/
+ 1092  ls
+ 1093  mv copy.sh 17.sh
+ 1094  ls
+ 1095  vi 16.sh
+ 1096  sh 16.sh
+ 1097  vi 18.sh
+ 1098  ls
+ 1099  test -e test.txt 
+ 1100  test -f test.txt 
+ 1101  test -f test.txtt
+ 1102  test -e test.txtt 
+ 1103  ls
+ 1104  vi 18.sh
+ 1105  pwd
+ 1106  ls
+ 1107  sh 18.sh 
+ 1108  vi 18.sh
+ 1109  echo 
+ 1110  sh 18.sh 
+ 1111  history > test.txt 
